@@ -2,3 +2,4 @@ streamlit
 py-avataaars
 pillow
 base58
+pycairo
